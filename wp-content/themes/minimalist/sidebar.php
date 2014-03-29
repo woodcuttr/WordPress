@@ -9,6 +9,7 @@
 		<div id="social">
 			<ul>
 				<li><img src="<?php bloginfo('stylesheet_directory'); ?>/images/facebook.png" /></li>
+				<li><img src="<?php bloginfo('stylesheet_directory'); ?>/images/twitter.png" /></li>
 			</ul>
 		</div>
 	</div>
